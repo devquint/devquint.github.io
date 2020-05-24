@@ -52,7 +52,7 @@ tags: OSS_Practice
 	* `python-for-beginners`의 다듬기 작업
 	* `python-for-beginners`의 `Slides` 다듬기 및 번역 작업
 * 정현태
-	* `python-for-beginners`의 `Slides` 내의 `Leading Zero` 제거
+	* `python-for-beginners`의 `Slides` 내의 `Leading Zero` 작성
 	* `python-for-beginners`의 `README.md`들 다듬기 및 번역 작업
 
 
