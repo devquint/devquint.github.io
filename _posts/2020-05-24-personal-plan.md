@@ -63,6 +63,10 @@ tags: OSS_Practice
 
 세부적인 활동 계획은 아래와 같습니다.
 
+팀장 활동 및 코드 리뷰 등은 상시 진행합니다.
+`python-for-beginners` 문서 작성을 우선으로 처리합니다.
+이후 `more-python-for-beginners` 관련 피드백 및 개선 작업을 수행하고, 여유가 있다면 한글 번역 작업 또한 진행합니다.
+
 * 팀 활동
 	* 팀 Github 정적 페이지 총괄 관리
 	* Git 사용 시 Conflict 관련 처리 주도
@@ -80,3 +84,4 @@ tags: OSS_Practice
 		* 해당 내용을 학습하며 피드백 제안
 		* 학습자의 입장에서 어렵거나 헷갈리는 부분 Issue 작성
 		* 만약 수정할 수 있으면 수정하여 Pull Request
+		* 시간적 여유가 있다면 문서 한글 번역 작업
