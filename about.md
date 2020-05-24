@@ -28,10 +28,6 @@ key: page-about
 
 ## Theme
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
-- We used [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)!
+- [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)! 를 사용하였습니다.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-
-```javascript
-(() => console.log('Hello, World!'))();
-```
+[오픈소스소프트웨어실습 팀 정적 페이지](https://20-1-skku-oss.github.io/2020-1-OSS-2/)에서 설정한 내용들(포스트 상단 작성자 프로필 등)을 가져왔습니다.
